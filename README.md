@@ -3,8 +3,8 @@ Challenge: HR Analytics - Job Change of Data Scientists
 Purpose: Enable HR department of  to predict the probability of candidates who will move to a new job, with goal of reducing the cost and time as well as the quality of training or planning
 
 TechStack: 
--Cleaning, Wrangling, Interacting with data: Pandas, NumPy
--Visualization: Matplotlib, Plotly
+  -Cleaning, Wrangling, Interacting with data: Pandas, NumPy
+  -Visualization: Matplotlib, Plotly
 
 Data Sources: Kaggle API
 
